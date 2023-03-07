@@ -27,3 +27,7 @@ B)128 subredes con 510 hosts
 EXERCICI 8-2
 -------------
 E)Ninguna de las respuestas es correcta
+
+EXERCICI 10
+-------------
+C)255.240.0.0
