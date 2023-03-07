@@ -59,3 +59,7 @@ A)62 subredes con 2 hosts. Aquesta es la resposta mes propera pero esta mal, ser
 EXERCICI 18
 -------------
 Entre la a i b, la resposta seria 128 subredes i 510 hosts.
+
+EXERCICI 20
+-------------
+D)255.255.254.0
