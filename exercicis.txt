@@ -51,3 +51,7 @@ D)255.255.255.0
 EXERCICI 16
 -------------
 D)dirección = 192.168.85.128, broadcast 192.168.85.191
+
+EXERCICI 17
+-------------
+A)62 subredes con 2 hosts. Aquesta es la resposta mes propera pero esta mal, serien 64 subredes.
