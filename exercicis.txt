@@ -31,3 +31,7 @@ E)Ninguna de las respuestas es correcta
 EXERCICI 10
 -------------
 C)255.240.0.0
+
+EXERCICI 12
+-------------
+D)dirección = 172.18.64.0, broadcast 172.18.71.255
