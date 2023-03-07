@@ -23,3 +23,7 @@ E)10011111.01001011.00111111.00101011
 EXERCICI 8
 -------------
 B)128 subredes con 510 hosts
+
+EXERCICI 8-2
+-------------
+E)Ninguna de las respuestas es correcta
